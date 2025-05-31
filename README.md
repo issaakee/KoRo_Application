@@ -1,4 +1,4 @@
-# DataAnalytics_Interview
+# DataAnalytics Interview
 
 This repository contains my SQL assessment for the Data Science Working Student position at KoRo. All analyses were performed in Google Cloud Platform’s BigQuery, and the full write-up of findings and methodology is available in **KoRo Report.pdf**.
 
