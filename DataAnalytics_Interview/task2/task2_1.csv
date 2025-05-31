@@ -1,0 +1,20 @@
+country_iso,main_category,total_orders,total_skus
+IT,Baking & Cooking,21285,248
+IT,Nutbutter & Spreads,12622,95
+IT,Snacks,11427,181
+IT,Breakfast,8484,94
+IT,Dried Fruits & Nuts,8179,95
+IT,Unknown,6484,397
+IT,Bars,5302,81
+IT,Protein Superfood & Supplements,3924,39
+IT,Other,547,27
+IT,None,4,4
+NL,Baking & Cooking,3736,221
+NL,Snacks,2560,161
+NL,Nutbutter & Spreads,1879,85
+NL,Breakfast,1460,84
+NL,Dried Fruits & Nuts,1322,91
+NL,Bars,1305,73
+NL,Unknown,1209,128
+NL,Protein Superfood & Supplements,825,48
+NL,Other,158,22
